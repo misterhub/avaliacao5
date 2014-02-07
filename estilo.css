@@ -1,0 +1,40 @@
+
+body{
+    margin: 0px;
+    background-image: url(fundo00.jpg);
+    text-align: center;
+    color: #FFFFFF;
+}
+
+footer{
+    margin: 0 15px 10 12px;
+}
+
+span{
+    font-size: xx-large;
+    
+}
+
+header{
+    
+    height: 40px;
+    border-bottom: 4px groove white;
+    border: 10px groove;
+    font-size: 30px;
+}
+
+header h1{
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    font-weight: normal;
+    font-family: Georgia, serif;
+    color: #00C;
+    font-size: 30px;
+}
+
+footer{
+    margin: 20px;
+    font-family: Grogia, sans-serif;
+    
+}
